@@ -62,6 +62,8 @@ Para evitarlo, existen múltiples formas de **controlar las notificaciones en Sl
 - **Edición de mensajes enviados**: podemos editar un mensaje ya enviado y no tener que enviar otro nuevo (para evitar confusiones a emisor y receptor el mensaje se marca como *Editado*)
 - **Agrupación de mensajes**: podemos enviar varias líneas de mensajes en una sola. Lo explicaremos más adelantes
 
+
+
 ## Multiplataforma
 
 Uso práctico de Slack
@@ -109,5 +111,10 @@ En una canal puede haber personas que tengan silenciadas las notificaciones sól
 ![](https://i.imgur.com/o2ObLbk.png)
 
 
+### No molestar
 
+Podemos elegir un horario en el que preferimos descansar de las notificaciones de Slack, dejando activar el resto de notificacione del sistema. Si se envia un mensaje directo o mención a alguien que está en modo no molestar el sistema da la opción de que, si es necesaria, se envié la notifiacion (para algo urgente, claro está)
 
+![](https://i.imgur.com/4ZdfXYL.png)
+
+¡Claro que esto se puede hacer poniendo el dispositivo en modo no molestar o desactivando todos las notificaciones de Slack! Pero este método es más cómodo (se activa sólo cuando lo programemos) y además, dejamos abierta la posibilidad de que nos notifiquen algo realmente importante.
