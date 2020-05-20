@@ -17,6 +17,7 @@ Alineados con estos objetivos, la Unión Europea ha puesto en marcha recientemen
 **¿Por qué son claves para la transformación digital?** El despliegue de las redes de telecomunicaciones ultrarrápidas incide directamente en la velocidad de conexión y en la conectividad en todo el territorio, un factor clave para el desarrollo de tecnologías como el Big Data, la Inteligencia Artificial, Internet de las Cosas o las [redes de telecomunicaciones 5G][3] con las que, a su vez, se impulsarán la Industria 4.0, los avances en materia de Smart City, una Administración electrónica totalmente conectada, así como sectores vitales como el empleo y el comercio electrónico (Mercado Único Digital).
 
 {>>le daría una vuelta para que quede claro que son las redes ultrarrápidas son las “autopistas” del futuro para los servicios actuales (faltaba servicios nube y SaaS) y lo futuros, manteniendo la cohesión en Europa RBG - 2018-09-07 11:59:07<<}
+{>>OK<<}
 
 La Unión Europea señala la importancia de las redes de telecomunicaciones ultrarrápidas a las que define como el "Oxígeno Digital" que se necesita para el desarrollo de la transformación digital en el viejo continente.
 
